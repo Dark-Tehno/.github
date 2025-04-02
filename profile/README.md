@@ -2,7 +2,7 @@
 
 **Ветвь компании DA5**
 
-![Dark.Tehno Logo](link_to_your_logo.png)  
+![Dark.Tehno Logo](https://github.com/Dark-Tehno/.github/blob/main/profile%2Flink_to_your_logo.png)  
 ## О нас
 
 Dark.Tehno - это команда разработчиков и энтузиастов, специализирующихся на передовых технологиях, разработке программного обеспечения и сайтов.  Мы являемся ветвью компании DA5(DEFAULT A-5) и разделяем её стремление к инновациям и качеству.
