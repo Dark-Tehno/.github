@@ -30,7 +30,6 @@ Dark.Tehno - это команда разработчиков и энтузиа�
 *   **Сайт:** [vsp210.ru](https://vsp210.ru)
 *   **GitHub:** [Dark-Tehno](https://github.com/Dark-Tehno/)
 *   **DA5:** [DA5](https://defaultafive.ru/)
-*   
 ---
 
 **Dark.Tehno - Вперед к технологическому будущему!**
