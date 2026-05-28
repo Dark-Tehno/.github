@@ -1,11 +1,9 @@
 # Dark.Tehno
 
-**Ветвь компании DA5**
-
 ![Dark.Tehno Logo](https://raw.githubusercontent.com/Dark-Tehno/.github/refs/heads/main/profile/link_to_your_logo.png)  
 ## О нас
 
-Dark.Tehno - это команда разработчиков и энтузиастов, являющаяся ветвью компании DA5 (DEFAULT A-5). Мы специализируемся на backend-разработке, создании программного обеспечения и сайтов с применением передовых технологий.
+Dark.Tehno - это команда разработчиков и энтузиастов. Мы специализируемся на backend-разработке, создании программного обеспечения и сайтов с применением передовых технологий.
 
 Наша миссия - создавать инновационные решения, решать сложные задачи и делать мир лучше с помощью технологий.
 
@@ -20,24 +18,22 @@ Dark.Tehno - это команда разработчиков и энтузиа�
 *   **Ссылка:** [vsp210.ru/mail/](https://vsp210.ru/mail/)
 
 ### [Веб-приложение DarkChat](https://vsp210.ru/chat/)
-*   **Описание:** Сайт-мессенджер для общения между пользователями и ботами.
-*   **Версия:** 1.0.55
-*   **Технологии:** Python, Django, PostgreSQL, Redis, HTML, CSS, JavaScript.
-*   **Ссылка:** [vsp210.ru/chat/](https://vsp210.ru/chat/)
-
-### [Веб-приложение Dark-Social-Network](https://darksn.ru)
-*   **Описание:** Социальная сеть с блогом и чатами. Пользователи могут создавать аккаунты, публиковать посты, общаться в чатах и многое другое.
-*   **Технологии:** Python, Django, HTML, CSS, JavaScript.
-*   **Ссылка:** [darksn.ru](https://darksn.ru)
+*   **Описание:** Сайт-мессенджер для общения между пользователями. Полное обновление проекта.
+*   **Версия:** 3.0-beta
+*   **Технологии:** Python, Django, PostgreSQL, Redis, React, WebSocket.
+*   **Ссылка:** [chat.vsp210.ru](https://chat.vsp210.ru/login)
 
 ## Основные технологии
 
+*   SQL
+*   Redis
+*   Git
+*   HTML/CSS
+*   JavaScript
+*   Vite React
 *   Python
 *   Django
 *   PostgreSQL
-*   Redis
-*   HTML/CSS
-*   JavaScript
 
 ## Наши ценности
 
