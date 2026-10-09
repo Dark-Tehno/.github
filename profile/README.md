@@ -1,7 +1,7 @@
 # Dark.Tehno
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dark-Tehno/.github/main/profile/logo.svg" alt="Dark.Tehno" width="180">
+  <img src="https://raw.githubusercontent.com/Dark-Tehno/.github/main/profile/link_to_your_logo.png" alt="Dark.Tehno" width="180">
 </p>
 
 <p align="center">
