@@ -109,7 +109,6 @@ Python-библиотека для создания более выразите�
 * **GitHub:** https://github.com/Dark-Tehno
 * **Dark.Lang:** https://vsp210.ru/dark-lang/
 * **Email:** [Tehno.Dark@yandex.ru](mailto:Tehno.Dark@yandex.ru)
-* **DA5:** https://defaultafive.ru/
 
 ---
 
